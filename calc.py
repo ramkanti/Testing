@@ -1,5 +1,5 @@
 def abc(x,y);
-return x+y;
+Pass;
 
 def subtract(x,y);
 return x-y;
